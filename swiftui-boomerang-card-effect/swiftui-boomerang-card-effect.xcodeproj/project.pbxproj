@@ -12,6 +12,7 @@
 		B1C9A44428F54799007263C5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B1C9A44328F54799007263C5 /* Assets.xcassets */; };
 		B1C9A44728F54799007263C5 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B1C9A44628F54799007263C5 /* Preview Assets.xcassets */; };
 		B1C9A45028F5482B007263C5 /* Card.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1C9A44F28F5482B007263C5 /* Card.swift */; };
+		B1C9A45228F548C7007263C5 /* Home.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1C9A45128F548C7007263C5 /* Home.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		B1C9A44328F54799007263C5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B1C9A44628F54799007263C5 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		B1C9A44F28F5482B007263C5 /* Card.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Card.swift; sourceTree = "<group>"; };
+		B1C9A45128F548C7007263C5 /* Home.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Home.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +76,7 @@
 		B1C9A44D28F5480A007263C5 /* Views */ = {
 			isa = PBXGroup;
 			children = (
+				B1C9A45128F548C7007263C5 /* Home.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -158,6 +161,7 @@
 			files = (
 				B1C9A44228F54798007263C5 /* ContentView.swift in Sources */,
 				B1C9A45028F5482B007263C5 /* Card.swift in Sources */,
+				B1C9A45228F548C7007263C5 /* Home.swift in Sources */,
 				B1C9A44028F54798007263C5 /* swiftui_boomerang_card_effectApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

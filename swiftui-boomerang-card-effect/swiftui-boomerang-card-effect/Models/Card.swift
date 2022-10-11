@@ -9,7 +9,7 @@ import SwiftUI
 
 struct Card: Identifiable {
     var id: String = UUID().uuidString
-    var imageName: String
+    // var imageName: String
     var isRotated: Bool = false
     var extraOffset: CGFloat = 0
     var scale: CGFloat = 1
